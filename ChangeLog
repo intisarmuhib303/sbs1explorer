@@ -1,0 +1,361 @@
+------------------------------------------------------------------------
+r57 | vasco.costa@geekslot.com | 2008-08-12 13:56:18 +0100 (Tue, 12 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r56 | vasco.costa@geekslot.com | 2008-08-12 13:52:40 +0100 (Tue, 12 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/ChangeLog
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r55 | vasco.costa@geekslot.com | 2008-08-12 13:33:15 +0100 (Tue, 12 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/ChangeLog
+   M /trunk/NEWS
+
+Small changes
+------------------------------------------------------------------------
+r54 | vasco.costa@geekslot.com | 2008-08-12 13:27:14 +0100 (Tue, 12 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/sbs1explorer.py
+
+Thread bug fix
+------------------------------------------------------------------------
+r52 | vasco.costa@geekslot.com | 2008-08-07 15:12:36 +0100 (Thu, 07 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/ChangeLog
+
+Small changes
+------------------------------------------------------------------------
+r51 | vasco.costa@geekslot.com | 2008-08-07 15:11:35 +0100 (Thu, 07 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/mbiz.py
+
+Small changes
+------------------------------------------------------------------------
+r50 | vasco.costa@geekslot.com | 2008-08-07 13:51:14 +0100 (Thu, 07 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/ChangeLog
+
+Small changes
+------------------------------------------------------------------------
+r49 | vasco.costa@geekslot.com | 2008-08-07 13:50:22 +0100 (Thu, 07 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/ChangeLog
+   M /trunk/NEWS
+
+Small changes
+------------------------------------------------------------------------
+r48 | vasco.costa@geekslot.com | 2008-08-07 13:37:41 +0100 (Thu, 07 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/NEWS
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r47 | vasco.costa@geekslot.com | 2008-08-07 13:23:45 +0100 (Thu, 07 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/business.py
+
+Small changes
+------------------------------------------------------------------------
+r46 | vasco.costa@geekslot.com | 2008-08-06 13:36:58 +0100 (Wed, 06 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r45 | vasco.costa@geekslot.com | 2008-08-05 23:48:07 +0100 (Tue, 05 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/TODO
+   M /trunk/constants.py
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r44 | vasco.costa@geekslot.com | 2008-08-05 19:44:56 +0100 (Tue, 05 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/mbiz.py
+
+Small changes
+------------------------------------------------------------------------
+r43 | vasco.costa@geekslot.com | 2008-08-05 14:42:50 +0100 (Tue, 05 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/business.py
+   M /trunk/mbiz.py
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r42 | vasco.costa@geekslot.com | 2008-08-05 13:41:08 +0100 (Tue, 05 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/business.py
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r41 | vasco.costa@geekslot.com | 2008-08-05 12:02:43 +0100 (Tue, 05 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r40 | vasco.costa@geekslot.com | 2008-08-04 20:19:05 +0100 (Mon, 04 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/mbiz.py
+
+Small changes
+------------------------------------------------------------------------
+r39 | vasco.costa@geekslot.com | 2008-08-03 20:34:36 +0100 (Sun, 03 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/mbiz.py
+
+Small changes
+------------------------------------------------------------------------
+r38 | vasco.costa@geekslot.com | 2008-08-03 19:14:00 +0100 (Sun, 03 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/mbiz.py
+
+Small changes
+------------------------------------------------------------------------
+r37 | vasco.costa@geekslot.com | 2008-08-03 19:12:40 +0100 (Sun, 03 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/mbiz.py
+
+Small changes
+------------------------------------------------------------------------
+r36 | vasco.costa@geekslot.com | 2008-08-03 19:11:19 +0100 (Sun, 03 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/mbiz.py
+
+Small changes
+------------------------------------------------------------------------
+r35 | vasco.costa@geekslot.com | 2008-08-03 19:05:49 +0100 (Sun, 03 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/mbiz.py
+
+Small changes
+------------------------------------------------------------------------
+r34 | vasco.costa@geekslot.com | 2008-08-03 19:03:01 +0100 (Sun, 03 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/mbiz.py
+
+Small changes
+------------------------------------------------------------------------
+r33 | vasco.costa@geekslot.com | 2008-08-02 17:33:19 +0100 (Sat, 02 Aug 2008) | 1 line
+Changed paths:
+   A /trunk/AUTHORS
+   A /trunk/ChangeLog
+   A /trunk/INSTALL
+   A /trunk/NEWS
+   A /trunk/README
+   A /trunk/TODO
+
+Added AUTHORS, ChangeLog, INSTALL, NEWS, README, TODO
+------------------------------------------------------------------------
+r32 | vasco.costa@geekslot.com | 2008-08-02 16:42:42 +0100 (Sat, 02 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/business.py
+
+Small changes
+------------------------------------------------------------------------
+r31 | vasco.costa@geekslot.com | 2008-08-02 14:55:10 +0100 (Sat, 02 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/business.py
+
+Small changes
+------------------------------------------------------------------------
+r30 | vasco.costa@geekslot.com | 2008-08-02 14:45:36 +0100 (Sat, 02 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/business.py
+
+Small changes
+------------------------------------------------------------------------
+r29 | vasco.costa@geekslot.com | 2008-08-02 14:35:18 +0100 (Sat, 02 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/business.py
+
+Small changes
+------------------------------------------------------------------------
+r28 | vasco.costa@geekslot.com | 2008-08-02 14:26:09 +0100 (Sat, 02 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/business.py
+
+Small changes
+------------------------------------------------------------------------
+r27 | vasco.costa@geekslot.com | 2008-08-02 14:24:07 +0100 (Sat, 02 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r26 | vasco.costa@geekslot.com | 2008-08-02 14:08:12 +0100 (Sat, 02 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r25 | vasco.costa@geekslot.com | 2008-08-02 14:07:48 +0100 (Sat, 02 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r24 | vasco.costa@geekslot.com | 2008-08-02 13:57:16 +0100 (Sat, 02 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/business.py
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r23 | vasco.costa@geekslot.com | 2008-08-02 13:21:05 +0100 (Sat, 02 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r22 | vasco.costa@geekslot.com | 2008-08-02 12:02:23 +0100 (Sat, 02 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r21 | vasco.costa@geekslot.com | 2008-08-02 09:29:25 +0100 (Sat, 02 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/business.py
+
+Small changes
+------------------------------------------------------------------------
+r20 | vasco.costa@geekslot.com | 2008-08-02 00:24:21 +0100 (Sat, 02 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r19 | vasco.costa@geekslot.com | 2008-08-02 00:22:06 +0100 (Sat, 02 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r18 | vasco.costa@geekslot.com | 2008-08-01 19:58:06 +0100 (Fri, 01 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/business.py
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r17 | vasco.costa@geekslot.com | 2008-08-01 19:04:44 +0100 (Fri, 01 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/business.py
+   M /trunk/sbs1explorer.py
+
+Added browser lookup support
+------------------------------------------------------------------------
+r16 | vasco.costa@geekslot.com | 2008-08-01 15:26:26 +0100 (Fri, 01 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/mbiz.py
+
+Small changes
+------------------------------------------------------------------------
+r15 | vasco.costa@geekslot.com | 2008-08-01 11:47:32 +0100 (Fri, 01 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/mbiz.py
+
+Small changes
+------------------------------------------------------------------------
+r14 | vasco.costa@geekslot.com | 2008-08-01 10:04:19 +0100 (Fri, 01 Aug 2008) | 1 line
+Changed paths:
+   M /trunk/mbiz.py
+
+Small changes
+------------------------------------------------------------------------
+r13 | vasco.costa@geekslot.com | 2008-07-31 19:51:41 +0100 (Thu, 31 Jul 2008) | 1 line
+Changed paths:
+   M /trunk/mbiz.py
+   M /trunk/sbs1explorer.py
+
+Added wildcards support
+------------------------------------------------------------------------
+r12 | vasco.costa@geekslot.com | 2008-07-31 17:01:18 +0100 (Thu, 31 Jul 2008) | 1 line
+Changed paths:
+   M /trunk/mbiz.py
+
+Small changes
+------------------------------------------------------------------------
+r11 | vasco.costa@geekslot.com | 2008-07-31 16:06:07 +0100 (Thu, 31 Jul 2008) | 1 line
+Changed paths:
+   M /trunk/business.py
+   M /trunk/mbiz.py
+
+Small changes
+------------------------------------------------------------------------
+r9 | vasco.costa@geekslot.com | 2008-07-30 12:48:02 +0100 (Wed, 30 Jul 2008) | 1 line
+Changed paths:
+   M /trunk/constants.py
+
+Small changes
+------------------------------------------------------------------------
+r8 | vasco.costa@geekslot.com | 2008-07-29 23:51:40 +0100 (Tue, 29 Jul 2008) | 1 line
+Changed paths:
+   M /trunk/constants.py
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r7 | vasco.costa@geekslot.com | 2008-07-29 20:22:06 +0100 (Tue, 29 Jul 2008) | 1 line
+Changed paths:
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r6 | vasco.costa@geekslot.com | 2008-07-29 20:19:19 +0100 (Tue, 29 Jul 2008) | 1 line
+Changed paths:
+   M /trunk/mbiz.py
+
+Small changes
+------------------------------------------------------------------------
+r5 | vasco.costa@geekslot.com | 2008-07-29 18:16:01 +0100 (Tue, 29 Jul 2008) | 1 line
+Changed paths:
+   M /trunk/sbs1explorer.py
+
+Small changes
+------------------------------------------------------------------------
+r4 | vasco.costa@geekslot.com | 2008-07-29 14:15:43 +0100 (Tue, 29 Jul 2008) | 1 line
+Changed paths:
+   M /trunk/business.py
+   M /trunk/config.py
+   M /trunk/constants.py
+   M /trunk/mbiz.py
+   M /trunk/sbs1explorer.py
+
+Added copyright and copying permission
+------------------------------------------------------------------------
+r3 | vasco.costa@geekslot.com | 2008-07-29 12:45:09 +0100 (Tue, 29 Jul 2008) | 1 line
+Changed paths:
+   A /trunk/COPYING
+
+Added a GPL copy
+------------------------------------------------------------------------
+r2 | vasco.costa@geekslot.com | 2008-07-29 01:32:21 +0100 (Tue, 29 Jul 2008) | 1 line
+Changed paths:
+   A /trunk/business.py
+   A /trunk/config.py
+   A /trunk/constants.py
+   A /trunk/mbiz.py
+   A /trunk/sbs1explorer.py
+
+Initial commit
+------------------------------------------------------------------------
+r1 | (no author) | 2008-07-29 00:31:24 +0100 (Tue, 29 Jul 2008) | 1 line
+Changed paths:
+   A /branches
+   A /tags
+   A /trunk
+
+Initial directory structure.
+------------------------------------------------------------------------

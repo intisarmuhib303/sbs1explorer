@@ -1,0 +1,12 @@
+* Windows
+      o There's no installer just unzip sbs1explorer-win32-x.x.zip
+      o Change into the sbs1explorer-win32-x.x folder
+      o Run sbs1explorer.exe
+
+* Linux
+      o Install python (dependency)
+      o Install python-pysqlite (dependency)
+      o Install wxpython (dependency)
+      o There's no installer just untar sbs1explorer-x.x.tgz
+      o Change into the sbs1explorer-x.x folder
+      o Run python sbs1explorer.py

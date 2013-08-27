@@ -1,0 +1,9 @@
+v0.2.1 2008-08-12 Vasco Costa <vasco dot costa at geekslot dot com>
+    - Thread bug fix
+
+v0.2 2008-08-07 Vasco Costa <vasco dot costa at geekslot dot com>
+    + Added wildcards support
+    + Added browser lookup support
+
+v0.1 2008-07-30 Vasco Costa <vasco dot costa at geekslot dot com>
+    + Initial release
